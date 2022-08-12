@@ -1,0 +1,27 @@
+.cube {
+   
+    text-align: center;
+}
+
+.canvas {
+
+    display: grid;
+    width: 40vw;
+    height: 40vw;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 20px;
+    
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.title img{
+
+    height: 200px;
+    margin-top: -800px;
+
+}
+
